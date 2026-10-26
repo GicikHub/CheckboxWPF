@@ -1,0 +1,9 @@
+﻿
+STATYSTYKI
+Liczba osób: 1
+Średni wiek: 111,00
+Najczęstszy kolor: Zielony (1)
+Mężczyźni: 0
+Kobiety: 1
+Inne: 0
+Zgody: 1
